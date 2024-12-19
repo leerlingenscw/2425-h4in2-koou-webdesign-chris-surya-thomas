@@ -17,3 +17,48 @@
 /************************* YOUR SETTINGS *************************/
 
 /* add your css here, feel free to use comments and order them logically for better readability */
+body {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+}
+
+.navbar {
+   background-color: #333;
+   overflow: hidden;
+   padding: 1em;
+}
+
+.navbar a {
+   color: white;
+   text-decoration: none;
+   padding: 0.5em;
+   display: inline-block;
+}
+
+.header {
+   text-align: center;
+   padding: 2em;
+   background-color: #f4f4f4;
+}
+
+.header h1 {
+   margin: 0;
+   font-size: 2.5em;
+}
+
+.content {
+   padding: 2em;
+   max-width: 800px;
+   margin: auto;
+}
+
+.footer {
+   background-color: #333;
+   color: white;
+   text-align: center;
+   padding: 1em 0;
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+}
