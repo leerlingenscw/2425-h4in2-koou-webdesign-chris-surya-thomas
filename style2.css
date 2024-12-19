@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #dfdfdf;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: center;
+}
+.container {
+    display: flex;
+    min-height: 80vh;
+}
+.sidebar {
+    width: 20%;
+    background-color: #FAF9F6;
+    padding: 15px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+.content {
+    flex: 1;
+    padding: 20px;
+}
+footer {
+    background-color: #dfdfdf;
+    color: #000000;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+}

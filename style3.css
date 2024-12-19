@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #dfdfdf;
+    color: #000000;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.center-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #dfdfdf;
+    color: #000000;
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+}
