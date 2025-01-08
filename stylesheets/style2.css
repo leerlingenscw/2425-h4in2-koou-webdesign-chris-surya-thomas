@@ -32,6 +32,6 @@ footer {
 a:hover {
     color: darkblue ;
     text-decoration: none ;
-    cursor: text ;
+    cursor: pointer ;
 
 }
