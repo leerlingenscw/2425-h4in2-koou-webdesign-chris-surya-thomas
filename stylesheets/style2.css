@@ -29,3 +29,9 @@ footer {
     padding: 10px 20px;
     position: relative;
 }
+a:hover {
+    color: darkblue ;
+    text-decoration: none ;
+    cursor: text ;
+
+}
