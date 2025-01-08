@@ -29,12 +29,15 @@ footer {
     padding: 10px 20px;
     position: relative;
 }
-a:hover {
-    color: darkblue ;
-    text-decoration: none ;
-    cursor: pointer ;
+
+a:link {
+    color: black;
 }
 
-.no-underline {
-    text-decoration: none; 
+a:visited {
+    color:black;
+  }
+
+  a {
+    text-decoration: none;
   }
